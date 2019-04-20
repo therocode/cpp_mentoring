@@ -1,0 +1,15 @@
+In this lesson we will be takinga look at type traits in C++. 
+
+Level: Intermediate - Advanced
+Knowledge required: Basic templates, template specialization
+Estimated time required: 1h - 1h30.
+
+Contents:
+
+1. What is a type trait?
+2. Creating a "value type trait"
+3. Creating a "typedef type trait"
+4. Applications of type traits
+5. Type traits and the STL 
+6. Conclusion and assignment
+7. [BONUS] Type traits and variadic templates
