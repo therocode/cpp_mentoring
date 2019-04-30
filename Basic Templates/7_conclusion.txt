@@ -1,0 +1,11 @@
+7. Conclusion
+
+In this lesson we learned how to use templates at a basic level. We covered function and class templates, 
+non type templates, and template specialization. We also learned how the compiler interprets and compilers
+templated functions and classes. 
+
+If you want to learn more in depth about templates, I recommend going through the book
+C++ Templates: The complete guide (2nd edition).
+The book covers pretty much everything you will ever need to know about templates, so I would take it slowly.
+
+No assignment for this lesson :^)
